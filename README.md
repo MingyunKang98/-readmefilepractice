@@ -9,5 +9,4 @@
 a = int(input()) # int: integer, input: 입력창
 for i in range(a):
   print("Hello World")
-  
 ```
