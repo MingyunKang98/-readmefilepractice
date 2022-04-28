@@ -2,7 +2,7 @@
 
 # 나는 강민균입니다.
 
-## Printing Hello World using "while" Phrase
+## Printing Hello World using "" Phrase
 
 ```python3
 
